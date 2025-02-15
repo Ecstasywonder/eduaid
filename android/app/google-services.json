@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969334887141",
+    "project_id": "edu-aid-w1s88m",
+    "storage_bucket": "edu-aid-w1s88m.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969334887141:android:4ab69f8df431af82863a0c",
+        "android_client_info": {
+          "package_name": "com.mycompany.eduaid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9WWYcpbqISKBZ_TXqNgS2Seqzj1UMW8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
